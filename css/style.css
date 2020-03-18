@@ -489,6 +489,9 @@ header.major h2 {
     background-size: cover;
 }
 
+.image-grid .image:hover{
+	filter: grayscale(100%);
+}
 
 .wrapper .container .image.fit img{
     display: block;
